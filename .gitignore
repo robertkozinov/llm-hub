@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Claude Code: личные настройки
+.claude/settings.local.json
+
